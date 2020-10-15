@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169450788828",
+    "firebase_url": "https://geetaxi-9c60a.firebaseio.com",
+    "project_id": "geetaxi-9c60a",
+    "storage_bucket": "geetaxi-9c60a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169450788828:android:418ca150b8799c9ef9a119",
+        "android_client_info": {
+          "package_name": "com.ufinix.cab_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169450788828-u10e9c6dlb73iq7de33l41iaodjd46ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQSm22dfjceA0OiQ9XL-0tQ0d7_XZTXpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169450788828-u10e9c6dlb73iq7de33l41iaodjd46ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
